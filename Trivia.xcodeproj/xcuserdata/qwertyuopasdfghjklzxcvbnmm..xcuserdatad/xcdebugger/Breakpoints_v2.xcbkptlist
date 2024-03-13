@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E67CAEDD-FFE1-4CD5-9AE2-6634812A2434"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1C551235-9099-4BA8-839E-8EF2AD6AC135"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Trivia/TriviaViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "TriviaViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "1C551235-9099-4BA8-839E-8EF2AD6AC135 - e72ac8b11ab4fb9e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Trivia.TriviaViewController.QuestionLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Trivia"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qwertyuopasdfghjklzxcvbnmm./Desktop/Trivia/Trivia/Trivia/TriviaViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "1C551235-9099-4BA8-839E-8EF2AD6AC135 - acae9b6dab9c17a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Trivia.TriviaViewController.QuestionLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Trivia"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qwertyuopasdfghjklzxcvbnmm./Desktop/Trivia/Trivia/Trivia/TriviaViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "1C551235-9099-4BA8-839E-8EF2AD6AC135 - 90b6c10c04b5d493"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Trivia.TriviaViewController.QuestionLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Trivia"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qwertyuopasdfghjklzxcvbnmm./Desktop/Trivia/Trivia/Trivia/TriviaViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "1C551235-9099-4BA8-839E-8EF2AD6AC135 - 6c3a8ec5a76d1147"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Trivia.TriviaViewController.QuestionLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Trivia"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qwertyuopasdfghjklzxcvbnmm./Desktop/Trivia/Trivia/Trivia/TriviaViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "1C551235-9099-4BA8-839E-8EF2AD6AC135 - e9486c5c088b86e8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Trivia.TriviaViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Trivia.TriviaViewController"
+                  moduleName = "Trivia"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qwertyuopasdfghjklzxcvbnmm./Desktop/Trivia/Trivia/Trivia/TriviaViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "232">
+               </Location>
+               <Location
+                  uuid = "1C551235-9099-4BA8-839E-8EF2AD6AC135 - d3119a68d922d262"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Trivia.TriviaViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Trivia.TriviaViewController&gt;"
+                  moduleName = "Trivia"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qwertyuopasdfghjklzxcvbnmm./Desktop/Trivia/Trivia/Trivia/TriviaViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "180">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
