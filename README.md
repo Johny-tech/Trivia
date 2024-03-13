@@ -3,9 +3,9 @@
 
 Submitted by: **Rustambek**
 
-**Trivia** is an app that ... [TODO] 
+**Trivia** is an app that .help to memorize the data by creating a interactive questinaire app  [TODO] 
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
