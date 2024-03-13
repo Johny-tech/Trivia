@@ -1,11 +1,3 @@
-<div>
-    <a href="https://www.loom.com/share/613650c2cf614a2fae301821180a6cdb">
-      <p>Loom | Free Screen & Video Recording Software | Loom - 13 March 2024 - Watch Video</p>
-    </a>
-    <a href="https://www.loom.com/share/613650c2cf614a2fae301821180a6cdb">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/613650c2cf614a2fae301821180a6cdb-with-play.gif">
-    </a>
-  </div>
 
 # Project 3 - *Trivia*
 
@@ -37,13 +29,19 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+<div>
+    <a href="https://www.loom.com/share/613650c2cf614a2fae301821180a6cdb">
+      <p>Loom | Free Screen & Video Recording Software | Loom - 13 March 2024 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/613650c2cf614a2fae301821180a6cdb">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/613650c2cf614a2fae301821180a6cdb-with-play.gif">
+    </a>
+  </div>
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+IT was chalanging to understand the StoryBoards at first 
 
 ## License
 
