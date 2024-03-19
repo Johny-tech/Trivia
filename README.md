@@ -1,5 +1,5 @@
 
-# Project 3 - *Trivia*
+# Project 4- *Trivia*
 
 Submitted by: **Rustambek Kholmatov**
 
@@ -11,32 +11,30 @@ Time spent: **5** hours spent in total
 
 The following **required** functionality is completed:
 
-- [x] User can view the current question and 4 different answers
-- [x] User can view the next question after tapping an answer
-- [x] User can answer at least 3 different questions
-
+- [x] User can view and answer at least 5 trivia questions.
+- [x] App retrieves question data from the Open Trivia Database API.
+- [x] Fetch a different set of questions if the user indicates they would like to reset the game.
+- [x] Users can see score after submitting all questions.
+- [x] True or False questions only have two options.
 
 The following **optional** features are implemented:
-
-- [x] User can use the vertical orientation of the app on any device
-- [ ] User can track the question they are on and how many questions are left
-- [ ] User can see how many questions they got correct after answering all questions
-- [x] User should be able to restart the game after they've finished answering all questions
-
+ 
+- [ ] Allow the user to choose a specific category of questions.
+- [x] Provide the user feedback on whether each question was correct before navigating to the next.
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+I added the  Random Correct Answer Fucntionality
 
 ## Video Walkthrough
 
-<div>
-    <a href="https://www.loom.com/share/613650c2cf614a2fae301821180a6cdb">
-      <p>Loom | Free Screen & Video Recording Software | Loom - 13 March 2024 - Watch Video</p>
-    </a>
-    <a href="https://www.loom.com/share/613650c2cf614a2fae301821180a6cdb">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/613650c2cf614a2fae301821180a6cdb-with-play.gif">
-    </a>
-  </div>
+    <div>
+        <a href="https://www.loom.com/share/c876e32bbc5d4e1ba91490085a252816">
+          <p>Loom | Free Screen & Video Recording Software | Loom - 19 March 2024 - Watch Video</p>
+        </a>
+        <a href="https://www.loom.com/share/c876e32bbc5d4e1ba91490085a252816">
+          <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/c876e32bbc5d4e1ba91490085a252816-with-play.gif">
+        </a>
+      </div>
 
 
 ## Notes
