@@ -26,14 +26,20 @@ The following **additional** features are implemented:
 I added the  Random Correct Answer Fucntionality
 
 ## Video Walkthrough
+
+
+
+
 <div>
     <a href="https://www.loom.com/share/c876e32bbc5d4e1ba91490085a252816">
       <p>Loom | Free Screen & Video Recording Software | Loom - 19 March 2024 - Watch Video</p>
     </a>
     <a href="https://www.loom.com/share/c876e32bbc5d4e1ba91490085a252816">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/c876e32bbc5d4e1ba91490085a252816-with-play.gif">
+      <img style="max-width:400px;" src="https://cdn.loom.com/sessions/thumbnails/c876e32bbc5d4e1ba91490085a252816-1710872379103-with-play.gif">
     </a>
   </div>
+
+  
 ## Notes
 
 IT was chalanging to understand the StoryBoards at first 
