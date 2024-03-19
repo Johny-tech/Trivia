@@ -1,7 +1,7 @@
 
 # Project 3 - *Trivia*
 
-Submitted by: **Rustambek**
+Submitted by: **Rustambek Kholmatov**
 
 **Trivia** is an app that .help to memorize the data by creating a interactive questinaire app  [TODO] 
 
